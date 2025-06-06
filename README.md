@@ -1,4 +1,4 @@
-- [Commands](commands.md)
+- [Commands](Commands.md)
 
 
 
